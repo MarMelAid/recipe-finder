@@ -1,6 +1,6 @@
 # Recipe Finder
 
-###Technologies used
+### Technologies used
 - React
 - Typescript
 - Tailwind
